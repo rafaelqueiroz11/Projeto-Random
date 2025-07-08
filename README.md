@@ -11,11 +11,7 @@ Este é um projeto simples de **sorteador de números aleatórios**, desenvolvid
 
 ## 📸 Demonstração
 
-<<<<<<< HEAD
-![Screenshot do Projeto](./screenshot.png) <!-- Coloque uma imagem do projeto ou use GitHub Pages para demonstrar -->
-=======
-![Screenshot do Projeto](./Sorteador.png) <!-- Coloque uma imagem do projeto ou use GitHub Pages para demonstrar -->
->>>>>>> b7ac69b2618f032648b0ea142f1145d74984dc44
+![Screenshot do Projeto](./Sorteador.png)
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -25,12 +21,14 @@ Este é um projeto simples de **sorteador de números aleatórios**, desenvolvid
 
 ## 📁 Estrutura de Arquivos
 
-```
 Projeto-Random/
 ├── index.html
 ├── style.css
 └── script.js
-```
+
+markdown
+Copiar
+Editar
 
 ## 🧠 O que aprendi
 
@@ -44,21 +42,20 @@ Projeto-Random/
 1. Clone o repositório:
    ```bash
    git clone https://github.com/rafaelqueiroz11/Projeto-Random.git
-   ```
-2. Abra o arquivo `index.html` em seu navegador.
+Abra o arquivo index.html em seu navegador.
 
-## 🧪 Melhorias futuras
+🧪 Melhorias futuras
+Adicionar animações com CSS
 
-- Adicionar animações com CSS
-- Exibir histórico de números sorteados
-- Responsividade para dispositivos móveis
+Exibir histórico de números sorteados
 
-## 🙋‍♂️ Autor
+Responsividade para dispositivos móveis
 
-**Rafael Neves Queiroz**  
-[LinkedIn](https://www.linkedin.com/in/rafael-neves-queiroz)  
-[GitHub](https://github.com/rafaelqueiroz11)
-
----
+🙋‍♂️ Autor
+Rafael Neves Queiroz
+LinkedIn
+GitHub
 
 ⭐ Se você gostou do projeto, deixe uma estrela no repositório!
+
+
