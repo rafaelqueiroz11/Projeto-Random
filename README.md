@@ -11,7 +11,7 @@ Este é um projeto simples de **sorteador de números aleatórios**, desenvolvid
 
 ## 📸 Demonstração
 
-![Screenshot do Projeto](./screenshot.png) <!-- Coloque uma imagem do projeto ou use GitHub Pages para demonstrar -->
+![Screenshot do Projeto](./Sorteador.png) <!-- Coloque uma imagem do projeto ou use GitHub Pages para demonstrar -->
 
 ## 🛠️ Tecnologias Utilizadas
 
